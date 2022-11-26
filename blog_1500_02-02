@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Josh Kabetu - blog_1500_02!! Bosch on emerging hydrogen solutions. </title>
+    <link rel="styles" href="styles.css">
+ </head>
+ <body>
+
+    <h1> Emerging Technologies</h1>
+    <h2>
+        Welcome to my first blog! Feel free to subscribe ;)
+    </h2>
+    <main>
+        <article>
+            <h3>Bosch on emerging hydrogen solutions</h3>
+            <img src="https://erepublic.brightspotcdn.com/dims4/default/b75f145/2147483647/strip/true/crop/940x490+0+68/resize/1680x876!/format/webp/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fec%2F28%2F09773cf00d8d10ada26a5abfbac2%2Fshutterstock-530657836.jpg"> 
+            <a href="https://www.governing.com/next/airports-are-the-new-testbeds-for-emerging-technologies/">Some Fly Emerging Technologies link</a>
+            <time>November 9, 2022</time>
+            <p> 
+                I think that this article is really interesting because airports are really a staple in technological advancements. They teach the staff levels to better understand automation, which helps with the future of this emerging technnology. They have developed things like facial recognition, which was difficult for theh pandemic 
+                I like how their new carbon engine design will result in fewer refeulling times.
+            </p>
+        </article>
+    </main>
+</body>
+</html>
