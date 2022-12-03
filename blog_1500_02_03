@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Josh Kabetu - blog_1500_02 third edition!!! </title>
+    <link rel="styles" href="styles.css">
+ </head>
+ <body>
+
+    <h1> Emerging Technologies</h1>
+    <h2>
+        Welcome to my third blog! Feel free to subscribe ;)
+    </h2>
+    <main>
+        <article>
+            <h3>Emerging technology allows solar panels and agriculture to coexist, but legal hurdles remain</h3>
+            <img src="https://scx1.b-cdn.net/csz/news/800a/2022/emerging-technology-al.jpg"> 
+            <a href="https://techxplore.com/news/2022-12-emerging-technology-solar-panels-agriculture.html">amazing hyrdogen link</a>
+            <time>December 1, 2022</time>
+            <p> 
+                This article is an interesting yet challenging one. It is about the challenging co-existence of renewable energy technologies like wind turbines and solar panels. Some argue that it is taking up valuable space that could be used for agricultural productionn, while others argue that animals such as sheep can coexist in the same feild. 
+            </p>
+            <p> 
+                While it may be more difficult to grow certain crops, there are some silver linings with the animals like sheep being able to co-exist with feilds full of solar panels and wind turbines. It can also save the solar developer money because they will no longer need to hire a mowing company to trim the vegetation. 
+            </p>
+            <p>
+                I really liked this article because it shows we are really trying to lead the world in the right direction with clean energy.
+            </p>
+        </article>
+    </main>
+</body>
+</html>
